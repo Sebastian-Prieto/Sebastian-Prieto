@@ -1,5 +1,5 @@
 <img src="https://github.com/Sebastian-Prieto/Sebastian-Prieto/blob/main/GitHub.png" alt="Sebastián Prieto GitHub README img">
-## Hey! 👋
+# Hey! 👋
 I'm Sebastián, a 20 years old web developer from Colombia.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
